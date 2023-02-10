@@ -1,0 +1,714 @@
+LOCUS       Exported                9718 bp ss-RNA     linear   UNA 02-AUG-2022
+DEFINITION  HIV reference HXB2 with fixed tat, nef, and vpr.
+ACCESSION   HXB2F
+VERSION     .
+KEYWORDS    TAR protein; acquired immune deficiency syndrome; complete gen...
+SOURCE      
+  ORGANISM  
+REFERENCE   1  (bases 1 to 9718)
+  AUTHORS   van Beveren CP, Coffin J, Hughes S.
+  TITLE     Appendix B: HTLV-3/LAV genome
+  JOURNAL   (in) Weiss,R.L., Teich,N., Varmus,H. and Coffin,J. (Eds.); RNA TUMOR
+            VIRUSES, SECOND EDITION, 2, Vol. 2: 1102-1123; Cold Spring Harbor 
+            Laboratory, Cold Spring Harbor (1985)
+REFERENCE   2  (bases 1 to 9718)
+  AUTHORS   Ratner L, Haseltine W, Patarca R, Livak KJ, Starcich B, Josephs SF, 
+            Doran ER, Rafalski JA, Whitehorn EA, Baumeister K, Ivanoff L, 
+            Petteway SR Jr., Pearson ML, Lautenberger JA, Papas TS, Ghrayeb J, 
+            Chang NT, Gallo RC, Wong-Staal F.
+  TITLE     Complete nucleotide sequence of the AIDS virus, HTLV-III
+  JOURNAL   Nature 313 (6000), 277-284 (1985)
+  PUBMED    2578615
+REFERENCE   3  (bases 1 to 9718)
+  AUTHORS   Starcich B, Ratner L, Josephs SF, Okamoto T, Gallo RC, Wong-Staal F.
+  TITLE     Characterization of long terminal repeat sequences of HTLV-III
+  JOURNAL   Science 227 (4686), 538-540 (1985)
+  PUBMED    2981438
+REFERENCE   4  (bases 1 to 9718)
+  AUTHORS   Allan JS, Coligan JE, Barin F, McLane MF, Sodroski JG, Rosen CA, 
+            Haseltine WA, Lee TH, Essex M.
+  TITLE     Major glycoprotein antigens that induce antibodies in AIDS patients 
+            are encoded by HTLV-III
+  JOURNAL   Science 228 (4703), 1091-1094 (1985)
+  PUBMED    2986290
+REFERENCE   5  (bases 1 to 9718)
+  AUTHORS   Rosen CA, Sodroski JG, Haseltine WA.
+  TITLE     The location of cis-acting regulatory sequences in the human T cell 
+            lymphotropic virus type III (HTLV-III/LAV) long terminal repeat
+  JOURNAL   Cell 41 (3), 813-823 (1985)
+  PUBMED    2988790
+REFERENCE   6  (bases 1 to 9718)
+  AUTHORS   Arya SK, Guo C, Josephs SF, Wong-Staal F.
+  TITLE     Trans-activator gene of human T-lymphotropic virus type III 
+            (HTLV-III)
+  JOURNAL   Science 229 (4708), 69-73 (1985)
+  PUBMED    2990040
+REFERENCE   7  (bases 1 to 9718)
+  AUTHORS   Sodroski J, Patarca R, Rosen C, Wong-Staal F, Haseltine W.
+  TITLE     Location of the trans-activating region on the genome of human 
+            T-cell lymphotropic virus type III
+  JOURNAL   Science 229 (4708), 74-77 (1985)
+  PUBMED    2990041
+REFERENCE   8  (bases 1 to 9718)
+  AUTHORS   Rabson AB, Daugherty DF, Venkatesan S, Boulukos KE, Benn SI, Folks 
+            TM, Feorino P, Martin MA.
+  TITLE     Transcription of novel open reading frames of AIDS retrovirus during
+            infection of lymphocytes
+  JOURNAL   Science 229 (4720), 1388-1390 (1985)
+  PUBMED    2994220
+REFERENCE   9  (bases 1 to 9718)
+  AUTHORS   Allan JS, Coligan JE, Lee TH, McLane MF, Kanki PJ, Groopman JE, 
+            Essex M.
+  TITLE     A new HTLV-III/LAV encoded antigen detected by antibodies from AIDS 
+            patients
+  JOURNAL   Science 230 (4727), 810-813 (1985)
+  PUBMED    2997921
+REFERENCE   10  (bases 1 to 9718)
+  AUTHORS   Rosen CA, Sodroski JG, Goh WC, Dayton AI, Lippke J, Haseltine WA.
+  TITLE     Post-transcriptional regulation accounts for the trans-activation of
+            the human T-lymphotropic virus type III
+  JOURNAL   Nature 319 (6054), 555-559 (1986)
+  PUBMED    3003584
+REFERENCE   11  (bases 1 to 9718)
+  AUTHORS   di Marzo Veronese F, Copeland TD, DeVico AL, Rahman R, Oroszlan S, 
+            Gallo RC, Sarngadharan MG.
+  TITLE     Characterization of highly immunogenic p66/p51 as the reverse 
+            transcriptase of HTLV-III/LAV
+  JOURNAL   Science 231 (4743), 1289-1291 (1986)
+  PUBMED    2418504
+REFERENCE   12  (bases 1 to 9718)
+  AUTHORS   Kramer RA, Schaber MD, Skalka AM, Ganguly K, Wong-Staal F, Reddy EP.
+  TITLE     HTLV-III gag protein is processed in yeast cells by the virus 
+            pol-protease
+  JOURNAL   Science 231 (4745), 1580-1584 (1986)
+  PUBMED    2420008
+REFERENCE   13  (bases 1 to 9718)
+  AUTHORS   Dayton AI, Sodroski JG, Rosen CA, Goh WC, Haseltine WA.
+  TITLE     The trans-activator gene of the human T cell lymphotropic virus type
+            III is required for replication
+  JOURNAL   Cell 44 (6), 941-947 (1986)
+  PUBMED    2420471
+REFERENCE   14  (bases 1 to 9718)
+  AUTHORS   Lee TH, Coligan JE, Allan JS, McLane MF, Groopman JE, Essex M.
+  TITLE     A new HTLV-III/LAV protein encoded by a gene found in cytopathic 
+            retroviruses
+  JOURNAL   Science 231 (4745), 1546-1549 (1986)
+  PUBMED    3006243
+REFERENCE   15  (bases 1 to 9718)
+  AUTHORS   Sodroski J, Goh WC, Rosen C, Tartar A, Portetelle D, Burny A, 
+            Haseltine W.
+  TITLE     Replicative and cytopathic potential of HTLV-III/LAV with sor gene 
+            deletions
+  JOURNAL   Science 231 (4745), 1549-1553 (1986)
+  PUBMED    3006244
+REFERENCE   16  (bases 1 to 9718)
+  AUTHORS   Kan NC, Franchini G, Wong-Staal F, DuBois GC, Robey WG, Lautenberger
+            JA, Papas TS.
+  TITLE     Identification of HTLV-III/LAV sor gene product and detection of 
+            antibodies in human sera
+  JOURNAL   Science 231 (4745), 1553-1555 (1986)
+  PUBMED    3006245
+REFERENCE   17  (bases 1 to 9718)
+  AUTHORS   Arya SK, Gallo RC.
+  TITLE     Three novel genes of human T-lymphotropic virus type III: immune 
+            reactivity of their products with sera from acquired immune 
+            deficiency syndrome patients
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 83 (7), 2209-2213 (1986)
+  PUBMED    3008154
+REFERENCE   18  (bases 1 to 9718)
+  AUTHORS   Jones KA, Kadonaga JT, Luciw PA, Tjian R.
+  TITLE     Activation of the AIDS retrovirus promoter by the cellular 
+            transcription factor, Sp1
+  JOURNAL   Science 232 (4751), 755-759 (1986)
+  PUBMED    3008338
+REFERENCE   19  (bases 1 to 9718)
+  AUTHORS   Sodroski J, Goh WC, Rosen C, Dayton A, Terwilliger E, Haseltine W.
+  TITLE     A second post-transcriptional trans-activator gene required for 
+            HTLV-III replication
+  JOURNAL   Nature 321 (6068), 412-417 (1986)
+  PUBMED    3012355
+REFERENCE   20  (bases 1 to 9718)
+  AUTHORS   Starcich BR, Hahn BH, Shaw GM, McNeely PD, Modrow S, Wolf H, Parks 
+            ES, Parks WP, Josephs SF, Gallo RC, Wong-Staal F.
+  TITLE     Identification and characterization of conserved and variable 
+            regions in the envelope gene of HTLV-III/LAV, the retrovirus of AIDS
+  JOURNAL   Cell 45 (5), 637-648 (1986)
+  PUBMED    2423250
+REFERENCE   21  (bases 1 to 9718)
+  AUTHORS   Willey RL, Rutledge RA, Dias S, Folks T, Theodore T, Buckler CE, 
+            Martin MA.
+  TITLE     Identification of conserved and divergent domains within the 
+            envelope gene of the acquired immunodeficiency syndrome retrovirus
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 83 (14), 5038-5042 (1986)
+  PUBMED    3014529
+REFERENCE   22  (bases 1 to 9718)
+  AUTHORS   Fisher AG, Ratner L, Mitsuya H, Marselle LM, Harper ME, Broder S, 
+            Gallo RC, Wong-Staal F.
+  TITLE     Infectious mutants of HTLV-III with changes in the 3' region and 
+            markedly reduced cytopathic effects
+  JOURNAL   Science 233 (4764), 655-659 (1986)
+  PUBMED    3014663
+REFERENCE   23  (bases 1 to 9718)
+  AUTHORS   Feinberg MB, Jarrett RF, Aldovini A, Gallo RC, Wong-Staal F.
+  TITLE     HTLV-III expression and production involve complex regulation at the
+            levels of splicing and translation of viral RNA
+  JOURNAL   Cell 46 (6), 807-817 (1986)
+  PUBMED    3638988
+REFERENCE   24  (bases 1 to 9718)
+  AUTHORS   Lightfoote MM, Coligan JE, Folks TM, Fauci AS, Martin MA, Venkatesan
+            S.
+  TITLE     Structural characterization of reverse transcriptase and 
+            endonuclease polypeptides of the acquired immunodeficiency syndrome 
+            retrovirus
+  JOURNAL   J. Virol. 60 (2), 771-775 (1986)
+  PUBMED    2430111
+REFERENCE   25  (bases 1 to 9718)
+  AUTHORS   Terwilliger E, Sodroski JG, Rosen CA, Haseltine WA.
+  TITLE     Effects of mutations within the 3' orf open reading frame region of 
+            human T-cell lymphotropic virus type III (HTLV-III/LAV) on 
+            replication and cytopathogenicity
+  JOURNAL   J. Virol. 60 (2), 754-760 (1986)
+  PUBMED    3490583
+REFERENCE   26  (bases 1 to 9718)
+  AUTHORS   Wright CM, Felber BK, Paskalis H, Pavlakis GN.
+  TITLE     Expression and characterization of the trans-activator of 
+            HTLV-III/LAV virus
+  JOURNAL   Science 234 (4779), 988-992 (1986)
+  PUBMED    3490693
+REFERENCE   27  (bases 1 to 9718)
+  AUTHORS   Patarca R, Heath C, Goldenberg GJ, Rosen CA, Sodroski JG, Haseltine 
+            WA, Hansen UM.
+  TITLE     Transcription directed by the HIV long terminal repeat in vitro
+  JOURNAL   AIDS Res. Hum. Retroviruses 3 (1), 41-55 (1987)
+  PUBMED    3040054
+REFERENCE   28  (bases 1 to 9718)
+  AUTHORS   Ratner L, Fisher A, Jagodzinski LL, Mitsuya H, Liou RS, Gallo RC, 
+            Wong-Staal F.
+  TITLE     Complete nucleotide sequences of functional clones of the AIDS virus
+  JOURNAL   AIDS Res. Hum. Retroviruses 3 (1), 57-69 (1987)
+  PUBMED    3040055
+REFERENCE   29  (bases 1 to 9718)
+  AUTHORS   Wong-Staal F, Chanda PK, Ghrayeb J.
+  TITLE     Human immunodeficiency virus: the eighth gene
+  JOURNAL   AIDS Res. Hum. Retroviruses 3 (1), 33-39 (1987)
+  PUBMED    3476127
+REFERENCE   30  (bases 1 to 9718)
+  AUTHORS   Modrow S, Hahn BH, Shaw GM, Gallo RC, Wong-Staal F, Wolf H.
+  TITLE     Computer-assisted analysis of envelope protein sequences of seven 
+            human immunodeficiency virus isolates: prediction of antigenic 
+            epitopes in conserved and variable regions
+  JOURNAL   J. Virol. 61 (2), 570-578 (1987)
+  PUBMED    2433466
+REFERENCE   31  (bases 1 to 9718)
+  AUTHORS   Goh WC, Sodroski JG, Rosen CA, Haseltine WA.
+  TITLE     Expression of the art gene protein of human T-lymphotropic virus 
+            type III (HTLV-III/LAV) in bacteria
+  JOURNAL   J. Virol. 61 (2), 633-637 (1987)
+  PUBMED    3543401
+REFERENCE   32  (bases 1 to 9718)
+  AUTHORS   Muesing MA, Smith DH, Capon DJ.
+  TITLE     Regulation of mRNA accumulation by a human immunodeficiency virus 
+            trans-activator protein
+  JOURNAL   Cell 48 (4), 691-701 (1987)
+  PUBMED    3643816
+REFERENCE   33  (bases 1 to 9718)
+  AUTHORS   Nabel G, Baltimore D.
+  TITLE     An inducible transcription factor activates expression of human 
+            immunodeficiency virus in T cells
+  JOURNAL   Nature 326 (6114), 711-713 (1987)
+  PUBMED    3031512
+REFERENCE   34  (bases 1 to 9718)
+  AUTHORS   Fisher AG, Ensoli B, Ivanoff L, Chamberlain M, Petteway S, Ratner L,
+            Gallo RC, Wong-Staal F.
+  TITLE     The sor gene of HIV-1 is required for efficient virus transmission 
+            in vitro
+  JOURNAL   Science 237 (4817), 888-893 (1987)
+  PUBMED    3497453
+REFERENCE   35  (bases 1 to 9718)
+  AUTHORS   Reitz MS Jr., Wilson C, Naugle C, Gallo RC, Robert-Guroff M.
+  TITLE     Generation of a neutralization-resistant variant of HIV-1 is due to 
+            selection for a point mutation in the envelope gene
+  JOURNAL   Cell 54 (1), 57-63 (1988)
+  PUBMED    2838179
+REFERENCE   36  (bases 1 to 9718)
+  AUTHORS   Pal R, Reitz MS Jr., Tschachler E, Gallo RC, Sarngadharan MG, 
+            Veronese FD.
+  TITLE     Myristoylation of gag proteins of HIV-1 plays an important role in 
+            virus assembly
+  JOURNAL   AIDS Res. Hum. Retroviruses 6 (6), 721-730 (1990)
+  PUBMED    2194551
+REFERENCE   37  (bases 1 to 9718)
+  AUTHORS   Ido E, Han HP, Kezdy FJ, Tang J.
+  TITLE     Kinetic studies of human immunodeficiency virus type 1 protease and 
+            its active-site hydrogen bond mutant A28S
+  JOURNAL   J. Biol. Chem. 266 (36), 24359-24366 (1991)
+  PUBMED    1761538
+REFERENCE   38  (bases 1 to 9718)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Aug 2, 2022 from SnapGene 6.0.2
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: "(in) 
+            Weiss,R.L., Teich,N., Varmus,H. and Coffin,J. (Eds.)"; volume: " RNA
+            TUMOR VIRUSES, SECOND EDITION, 2, Vol. 2"; pages: " 1102-1123; Cold 
+            Spring Harbor Laboratory, Cold Spring Harbor (1985"
+COMMENT     SGRef: number: 2; type: "Journal Article"; journalName: "Nature"; 
+            date: "1985"; volume: "313"; issue: "6000"; pages: "277-284"
+COMMENT     SGRef: number: 3; type: "Journal Article"; journalName: "Science"; 
+            date: "1985"; volume: "227"; issue: "4686"; pages: "538-540"
+COMMENT     SGRef: number: 4; type: "Journal Article"; journalName: "Science"; 
+            date: "1985"; volume: "228"; issue: "4703"; pages: "1091-1094"
+COMMENT     SGRef: number: 5; type: "Journal Article"; journalName: "Cell"; 
+            date: "1985"; volume: "41"; issue: "3"; pages: "813-823"
+COMMENT     SGRef: number: 6; type: "Journal Article"; journalName: "Science"; 
+            date: "1985"; volume: "229"; issue: "4708"; pages: "69-73"
+COMMENT     SGRef: number: 7; type: "Journal Article"; journalName: "Science"; 
+            date: "1985"; volume: "229"; issue: "4708"; pages: "74-77"
+COMMENT     SGRef: number: 8; type: "Journal Article"; journalName: "Science"; 
+            date: "1985"; volume: "229"; issue: "4720"; pages: "1388-1390"
+COMMENT     SGRef: number: 9; type: "Journal Article"; journalName: "Science"; 
+            date: "1985"; volume: "230"; issue: "4727"; pages: "810-813"
+COMMENT     SGRef: number: 10; type: "Journal Article"; journalName: "Nature"; 
+            date: "1986"; volume: "319"; issue: "6054"; pages: "555-559"
+COMMENT     SGRef: number: 11; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "231"; issue: "4743"; pages: "1289-1291"
+COMMENT     SGRef: number: 12; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "231"; issue: "4745"; pages: "1580-1584"
+COMMENT     SGRef: number: 13; type: "Journal Article"; journalName: "Cell"; 
+            date: "1986"; volume: "44"; issue: "6"; pages: "941-947"
+COMMENT     SGRef: number: 14; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "231"; issue: "4745"; pages: "1546-1549"
+COMMENT     SGRef: number: 15; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "231"; issue: "4745"; pages: "1549-1553"
+COMMENT     SGRef: number: 16; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "231"; issue: "4745"; pages: "1553-1555"
+COMMENT     SGRef: number: 17; type: "Journal Article"; journalName: "Proc. 
+            Natl. Acad. Sci. U.S.A."; date: "1986"; volume: "83"; issue: "7"; 
+            pages: "2209-2213"
+COMMENT     SGRef: number: 18; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "232"; issue: "4751"; pages: "755-759"
+COMMENT     SGRef: number: 19; type: "Journal Article"; journalName: "Nature"; 
+            date: "1986"; volume: "321"; issue: "6068"; pages: "412-417"
+COMMENT     SGRef: number: 20; type: "Journal Article"; journalName: "Cell"; 
+            date: "1986"; volume: "45"; issue: "5"; pages: "637-648"
+COMMENT     SGRef: number: 21; type: "Journal Article"; journalName: "Proc. 
+            Natl. Acad. Sci. U.S.A."; date: "1986"; volume: "83"; issue: "14"; 
+            pages: "5038-5042"
+COMMENT     SGRef: number: 22; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "233"; issue: "4764"; pages: "655-659"
+COMMENT     SGRef: number: 23; type: "Journal Article"; journalName: "Cell"; 
+            date: "1986"; volume: "46"; issue: "6"; pages: "807-817"
+COMMENT     SGRef: number: 24; type: "Journal Article"; journalName: "J. 
+            Virol."; date: "1986"; volume: "60"; issue: "2"; pages: "771-775"
+COMMENT     SGRef: number: 25; type: "Journal Article"; journalName: "J. 
+            Virol."; date: "1986"; volume: "60"; issue: "2"; pages: "754-760"
+COMMENT     SGRef: number: 26; type: "Journal Article"; journalName: "Science"; 
+            date: "1986"; volume: "234"; issue: "4779"; pages: "988-992"
+COMMENT     SGRef: number: 27; type: "Journal Article"; journalName: "AIDS Res. 
+            Hum. Retroviruses"; date: "1987"; volume: "3"; issue: "1"; pages: 
+            "41-55"
+COMMENT     SGRef: number: 28; type: "Journal Article"; journalName: "AIDS Res. 
+            Hum. Retroviruses"; date: "1987"; volume: "3"; issue: "1"; pages: 
+            "57-69"
+COMMENT     SGRef: number: 29; type: "Journal Article"; journalName: "AIDS Res. 
+            Hum. Retroviruses"; date: "1987"; volume: "3"; issue: "1"; pages: 
+            "33-39"
+COMMENT     SGRef: number: 30; type: "Journal Article"; journalName: "J. 
+            Virol."; date: "1987"; volume: "61"; issue: "2"; pages: "570-578"
+COMMENT     SGRef: number: 31; type: "Journal Article"; journalName: "J. 
+            Virol."; date: "1987"; volume: "61"; issue: "2"; pages: "633-637"
+COMMENT     SGRef: number: 32; type: "Journal Article"; journalName: "Cell"; 
+            date: "1987"; volume: "48"; issue: "4"; pages: "691-701"
+COMMENT     SGRef: number: 33; type: "Journal Article"; journalName: "Nature"; 
+            date: "1987"; volume: "326"; issue: "6114"; pages: "711-713"
+COMMENT     SGRef: number: 34; type: "Journal Article"; journalName: "Science"; 
+            date: "1987"; volume: "237"; issue: "4817"; pages: "888-893"
+COMMENT     SGRef: number: 35; type: "Journal Article"; journalName: "Cell"; 
+            date: "1988"; volume: "54"; issue: "1"; pages: "57-63"
+COMMENT     SGRef: number: 36; type: "Journal Article"; journalName: "AIDS Res. 
+            Hum. Retroviruses"; date: "1990"; volume: "6"; issue: "6"; pages: 
+            "721-730"
+COMMENT     SGRef: number: 37; type: "Journal Article"; journalName: "J. Biol. 
+            Chem."; date: "1991"; volume: "266"; issue: "36"; pages: 
+            "24359-24366"
+COMMENT     On Mar 25, 1997 this sequence version replaced gi:327742.
+            [6]  sites; tat mRNA and other transcript boundaries. [7]  sites; 
+            tat mRNA.
+            [8]  sites; mRNA splice sites.
+            [9]  sites; 27K antigen cds.
+            [5]  sites; gp160 and gp120 coding sequences.
+            [1]  sites; regulatory sequences in the LTR.
+            [(in) Weiss,R., Teich,N., Varmus,H. and Coffin,J. (Eds.);RNA Tumor 
+            Viruses, Secon]  review; bases 1 to 9718.
+            [15]  sites; trans-activator function and TAR sequence. [19]
+            sites; pol coding sequence.
+            [22]  sites; 23K sor gene product.
+            [23]  sites; pol NH2-terminal region.
+            [20]  sites; sor 23K protein.
+            [21]  sites; sor 23K protein.
+            [24]  sites; Sp1 binding sites in the promoter region. [17]  sites; 
+            acceptor and donor splice sites for tat and 27K. [10]  sites; 
+            deletion mutants in the tat gene.
+            [18]  sites; env gene conserved/varable regions; separate entries. 
+            [16]  sites; trs cds boundaries.
+            [12]  sites; trs cds boundaries.
+            [11]  sites; env gene conserved/variable regions; separate entries. 
+            [26]  sites; tar or transactivator target.
+            [13]  sites; 3' orf mutations.
+            [14]  sites; pol p34 terminus.
+            [31]  sites; promoter, TAR, tat-III mutants.
+            [32]  sites; envelope protein epitopes.
+            [33]  sites; trs/art protein.
+            [34]  sites; inducible enhancer element.
+            [27]  revises [30].
+            [29]  sites; long terminal repeat.
+            [28]  sites; R orf.
+            [35]  sites; sor.
+            Sequence for [25] kindly provided in computer-readable form by 
+            L.Ratner, 19-AUG-1986.
+            The HXB2 sequence is being used as a reference genome for all the 
+            HIV entries because it has been derived from a demonstrably 
+            infectious clone.  Hence not all of the 'sites' references above 
+            were concerned with this isolate.
+FEATURES             Location/Qualifiers
+     source          1..9718
+                     /isolate="HXB2"
+                     /mol_type="genomic RNA"
+                     /proviral
+                     /label=HTLV-III/LAV
+                     /note="HTLV-III/LAV"
+                     /db_xref="taxon:11676"
+                     /organism="Human immunodeficiency virus 1"
+     repeat_region   1..634
+                     /label=5' LTR
+                     /note="5' LTR"
+                     /codon_start=1
+     primer_bind     83..109
+                     /label=Temple-LTR-104-5P
+     repeat_region   454..551
+                     /label=R repeat 5' copy
+                     /note="R repeat 5' copy"
+     mRNA            455..9634
+                     /product="HXB2 genomic mRNA"
+                     /label=HXB2 genomic mRNA
+     prim_transcript 455..9634
+                     /label=tat, trs, 27K subgenomic mRNA
+                     /note="tat, trs, 27K subgenomic mRNA"
+     primer_bind     508..535
+                     /label=Temple-LTR-509-5P
+     primer_bind     578..604
+                     /label=Temple-LTR-578-5P
+     intron          744..5776
+                     /note="tat, trs, 27K mRNA intron 1"
+     primer_bind     769..795
+                     /label=Temple-phi-790
+     CDS             790..2292
+                     /codon_start=1
+                     /label=gag
+                     /note="gag"
+                     /protein_id="AAB50258.1"
+                     /translation="MGARASVLSGGELDRWEKIRLRPGGKKKYKLKHIVWASRELERFA
+                     VNPGLLETSEGCRQILGQLQPSLQTGSEELRSLYNTVATLYCVHQRIEIKDTKEALDKI
+                     EEEQNKSKKKAQQAAADTGHSNQVSQNYPIVQNIQGQMVHQAISPRTLNAWVKVVEEKA
+                     FSPEVIPMFSALSEGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRVHPVHAGP
+                     IAPGQMREPRGSDIAGTTSTLQEQIGWMTNNPPIPVGEIYKRWIILGLNKIVRMYSPTS
+                     ILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKNWMTETLLVQNANPDCKTILKALGPA
+                     ATLEEMMTACQGVGGPGHKARVLAEAMSQVTNSATIMMQRGNFRNQRKIVKCFNCGKEG
+                     HTARNCRAPRKKGCWKCGKEGHQMKDCTERQANFLGKIWPSYKGRPGNFLQSRPEPTAP
+                     PEESFRSGVETTTPPQKQEPIDKELYPLTSLRSLFGNDPSSQ"
+     primer_bind     1230..1256
+                     /label=Temple-Gag-1251
+     primer_bind     1402..1428
+                     /label=Temple-Gag-1423
+     primer_bind     1821..1847
+                     /label=Temple-Gag-1842
+     CDS             2358..5096
+                     /codon_start=3
+                     /label=pol
+                     /note="pol"
+                     /protein_id="AAB50259.1"
+                     /translation="MSLPGRWKPKMIGGIGGFIKVRQYDQILIEICGHKAIGTVLVGPT
+                     PVNIIGRNLLTQIGCTLNFPISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTE
+                     MEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAG
+                     LKKKKSVTVLDVGDAYFSVPLDEDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPA
+                     IFQSSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLRWGLTTP
+                     DKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQKLVGKLNWASQIYPGIKV
+                     RQLCKLLRGTKALTEVIPLTEEAELELAENREILKEPVHGVYYDPSKDLIAEIQKQGQG
+                     QWTYQIYQEPFKNLKTGKYARMRGAHTNDVKQLTEAVQKITTESIVIWGKTPKFKLPIQ
+                     KETWETWWTEYWQATWIPEWEFVNTPPLVKLWYQLEKEPIVGAETFYVDGAANRETKLG
+                     KAGYVTNRGRQKVVTLTDTTNQKTELQAIYLALQDSGLEVNIVTDSQYALGIIQAQPDQ
+                     SESELVNQIIEQLIKKEKVYLAWVPAHKGIGGNEQVDKLVSAGIRKVLFLDGIDKAQDE
+                     HEKYHSNWRAMASDFNLPPVVAKEIVASCDKCQLKGEAMHGQVDCSPGIWQLDCTHLEG
+                     KVILVAVHVASGYIEAEVIPAETGQETAYFLLKLAGRWPVKTIHTDNGSNFTGATVRAA
+                     CWWAGIKQEFGIPYNPQSQGVVESMNKELKKIIGQVRDQAEHLKTAVQMAVFIHNFKRK
+                     GGIGGYSAGERIVDIIATDIQTKELQKQITKIQNFRVYYRDSRNPLWKGPAKLLWKGEG
+                     AVVIQDNSDIKVVPRRKAKIIRDYGKQMAGDDCVASRQDED"
+     primer_bind     2375..2401
+                     /label=Temple-Pol-2396
+     primer_bind     3248..3274
+                     /label=Temple-Pol-3248
+     primer_bind     4066..4092
+                     /label=Temple-Pol-4087
+     primer_bind     4148..4174
+                     /label=Temple-Pol-4169
+     CDS             5041..5619
+                     /codon_start=1
+                     /label=vif
+                     /note="vif"
+                     /protein_id="AAB50260.1"
+                     /translation="MENRWQVMIVWQVDRMRIRTWKSLVKHHMYVSGKARGWFYRHHYE
+                     SPHPRISSEVHIPLGDARLVITTYWGLHTGERDWHLGQGVSIEWRKKRYSTQVDPELAD
+                     QLIHLYYFDCFSDSAIRKALLGHIVSPRCEYQAGHNKVGSLQYLALAALITPKKIKPPL
+                     PSVTKLTEDRWNKPQKTKGHRGSHTMNGH"
+     CDS             5559..5839
+                     /codon_start=3
+                     /label=vpr
+                     /note="vpr"
+                     /protein_id="AAB50261.1"
+                     /translation="MEQAPEDQGPQREPHNEWTLELLEELKNEAVRHFPRIWLHGLGQH
+                     IYETYGDTWAGVEAIIRILQQLLFIHFRIGCRHSRIGVTRQRRARNGA"
+     CDS             join(5830..6044,8378..8465)
+                     /codon_start=2,1
+                     /label=tat
+                     /note="tat"
+                     /protein_id="AAB50256.1"
+                     /translation="MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFITKALGI
+                     SYGRKKRRQRRRAHQNSQTHQASLSKQPTSQPRGDPTGPKESKKKVERETETDPFD"
+     exon            5830..6044
+                     /number=2
+                     /note="tat exon 1"
+     primer_bind     5843..5869
+                     /label=Temple-Tat-5843
+     CDS             join(5969..6044,8378..8652)
+                     /codon_start=3,2
+                     /label=rev
+                     /note="rev"
+                     /protein_id="AAB50257.1"
+                     /translation="MAGRSGDSDEELIRTVRLIKLLYQSNPPPNPEGTRQARRNRRRRW
+                     RERQRQIHSISERILGTYLGRSAEPVPLQLPPLERLTLDCNEDCGTSGTQGVGSPQILV
+                     ESPTVLESGTKE"
+     exon            5969..6044
+                     /number=2
+                     /note="rev exon 1"
+     intron          6045..8377
+                     /note="tat, trs, 27K mRNA intron 2"
+     CDS             6224..8794
+                     /codon_start=3
+                     /label=env
+                     /note="env"
+                     /protein_id="AAB50262.1"
+                     /translation="MRVKEKYQHLWRWGWRWGTMLLGMLMICSATEKLWVTVYYGVPVW
+                     KEATTTLFCASDAKAYDTEVHNVWATHACVPTDPNPQEVVLVNVTENFNMWKNDMVEQM
+                     HEDIISLWDQSLKPCVKLTPLCVSLKCTDLKNDTNTNSSSGRMIMEKGEIKNCSFNIST
+                     SIRGKVQKEYAFFYKLDIIPIDNDTTSYKLTSCNTSVITQACPKVSFEPIPIHYCAPAG
+                     FAILKCNNKTFNGTGPCTNVSTVQCTHGIRPVVSTQLLLNGSLAEEEVVIRSVNFTDNA
+                     KTIIVQLNTSVEINCTRPNNNTRKRIRIQRGPGRAFVTIGKIGNMRQAHCNISRAKWNN
+                     TLKQIASKLREQFGNNKTIIFKQSSGGDPEIVTHSFNCGGEFFYCNSTQLFNSTWFNST
+                     WSTEGSNNTEGSDTITLPCRIKQIINMWQKVGKAMYAPPISGQIRCSSNITGLLLTRDG
+                     GNSNNESEIFRPGGGDMRDNWRSELYKYKVVKIEPLGVAPTKAKRRVVQREKRAVGIGA
+                     LFLGFLGAAGSTMGAASMTLTVQARQLLSGIVQQQNNLLRAIEAQQHLLQLTVWGIKQL
+                     QARILAVERYLKDQQLLGIWGCSGKLICTTAVPWNASWSNKSLEQIWNHTTWMEWDREI
+                     NNYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWFNITNWLWYIKLFIMIVGGLVG
+                     LRIVFAVLSIVNRVRQGYSPLSFQTHLPTPRGPDRPEGIEEEGGERDRDRSIRLVNGSL
+                     ALIWDDLRSLCLFSYHRLRDLLLIVTRIVELLGRRGWEALKYWWNLLQYWSQELKNSAV
+                     SLLNATAIAVAEGTDRVIEVVQGACRAIRHIPRRIRQGLERILL"
+     exon            8378..8651
+                     /number=3
+                     /note="rev exon 2"
+     exon            8378..8423
+                     /number=3
+                     /note="tat exon 2"
+     primer_bind     8378..8404
+                     /label=Temple-Tat-8369
+     primer_bind     8390..8416
+                     /label=Temple-Tat-8381
+     CDS             8796..9413
+                     /codon_start=1
+                     /label=nef
+                     /note="nef"
+                     /protein_id="AAB50263.1"
+                     /translation="MGGKWSKSSVIGWPTVRERMRRAEPAADRVGAASRDLEKHGAITS
+                     SNTAATNAACAWLEAQEEEEVGFPVTPQVPLRPMTYKAAVDLSHFLKEKGGLEGLIHSQ
+                     RRQDILDLWIYHTQGYFPDWQNYTPGPGVRYPLTFGWCYKLVPVEPDKIEEANKGENTS
+                     LLHPVSLHGMDDPEREVLEWRFDSRLAFHHVARELHPEYFKNC"
+     repeat_region   9085..9718
+                     /label=3' LTR
+                     /note="3' LTR"
+                     /codon_start=2
+     primer_bind     9167..9193
+                     /label=Temple-LTR-104-3P
+     repeat_region   9539..9635
+                     /label=R repeat 3' copy
+                     /note="R repeat 3' copy"
+     misc_feature    9593..9619
+                     /label=Temple-LTR-509-3P
+     regulatory      9611..9616
+                     /label=HXB2 mRNA polyadenyation signal
+                     /note="HXB2 mRNA polyadenyation signal"
+                     /regulatory_class="polyA_signal_sequence"
+     primer_bind     9662..9688
+                     /label=Temple-LTR-578-3P
+ORIGIN
+        1 tggaagggct aattcactcc caacgaagac aagatatcct tgatctgtgg atctaccaca
+       61 cacaaggcta cttccctgat tagcagaact acacaccagg gccagggatc agatatccac
+      121 tgacctttgg atggtgctac aagctagtac cagttgagcc agagaagtta gaagaagcca
+      181 acaaaggaga gaacaccagc ttgttacacc ctgtgagcct gcatggaatg gatgacccgg
+      241 agagagaagt gttagagtgg aggtttgaca gccgcctagc atttcatcac atggcccgag
+      301 agctgcatcc ggagtacttc aagaactgct gacatcgagc ttgctacaag ggactttccg
+      361 ctggggactt tccagggagg cgtggcctgg gcgggactgg ggagtggcga gccctcagat
+      421 cctgcatata agcagctgct ttttgcctgt actgggtctc tctggttaga ccagatctga
+      481 gcctgggagc tctctggcta actagggaac ccactgctta agcctcaata aagcttgcct
+      541 tgagtgcttc aagtagtgtg tgcccgtctg ttgtgtgact ctggtaacta gagatccctc
+      601 agaccctttt agtcagtgtg gaaaatctct agcagtggcg cccgaacagg gacctgaaag
+      661 cgaaagggaa accagaggag ctctctcgac gcaggactcg gcttgctgaa gcgcgcacgg
+      721 caagaggcga ggggcggcga ctggtgagta cgccaaaaat tttgactagc ggaggctaga
+      781 aggagagaga tgggtgcgag agcgtcagta ttaagcgggg gagaattaga tcgatgggaa
+      841 aaaattcggt taaggccagg gggaaagaaa aaatataaat taaaacatat agtatgggca
+      901 agcagggagc tagaacgatt cgcagttaat cctggcctgt tagaaacatc agaaggctgt
+      961 agacaaatac tgggacagct acaaccatcc cttcagacag gatcagaaga acttagatca
+     1021 ttatataata cagtagcaac cctctattgt gtgcatcaaa ggatagagat aaaagacacc
+     1081 aaggaagctt tagacaagat agaggaagag caaaacaaaa gtaagaaaaa agcacagcaa
+     1141 gcagcagctg acacaggaca cagcaatcag gtcagccaaa attaccctat agtgcagaac
+     1201 atccaggggc aaatggtaca tcaggccata tcacctagaa ctttaaatgc atgggtaaaa
+     1261 gtagtagaag agaaggcttt cagcccagaa gtgataccca tgttttcagc attatcagaa
+     1321 ggagccaccc cacaagattt aaacaccatg ctaaacacag tggggggaca tcaagcagcc
+     1381 atgcaaatgt taaaagagac catcaatgag gaagctgcag aatgggatag agtgcatcca
+     1441 gtgcatgcag ggcctattgc accaggccag atgagagaac caaggggaag tgacatagca
+     1501 ggaactacta gtacccttca ggaacaaata ggatggatga caaataatcc acctatccca
+     1561 gtaggagaaa tttataaaag atggataatc ctgggattaa ataaaatagt aagaatgtat
+     1621 agccctacca gcattctgga cataagacaa ggaccaaagg aaccctttag agactatgta
+     1681 gaccggttct ataaaactct aagagccgag caagcttcac aggaggtaaa aaattggatg
+     1741 acagaaacct tgttggtcca aaatgcgaac ccagattgta agactatttt aaaagcattg
+     1801 ggaccagcgg ctacactaga agaaatgatg acagcatgtc agggagtagg aggacccggc
+     1861 cataaggcaa gagttttggc tgaagcaatg agccaagtaa caaattcagc taccataatg
+     1921 atgcagagag gcaattttag gaaccaaaga aagattgtta agtgtttcaa ttgtggcaaa
+     1981 gaagggcaca cagccagaaa ttgcagggcc cctaggaaaa agggctgttg gaaatgtgga
+     2041 aaggaaggac accaaatgaa agattgtact gagagacagg ctaatttttt agggaagatc
+     2101 tggccttcct acaagggaag gccagggaat tttcttcaga gcagaccaga gccaacagcc
+     2161 ccaccagaag agagcttcag gtctggggta gagacaacaa ctccccctca gaagcaggag
+     2221 ccgatagaca aggaactgta tcctttaact tccctcaggt cactctttgg caacgacccc
+     2281 tcgtcacaat aaagataggg gggcaactaa aggaagctct attagataca ggagcagatg
+     2341 atacagtatt agaagaaatg agtttgccag gaagatggaa accaaaaatg atagggggaa
+     2401 ttggaggttt tatcaaagta agacagtatg atcagatact catagaaatc tgtggacata
+     2461 aagctatagg tacagtatta gtaggaccta cacctgtcaa cataattgga agaaatctgt
+     2521 tgactcagat tggttgcact ttaaattttc ccattagccc tattgagact gtaccagtaa
+     2581 aattaaagcc aggaatggat ggcccaaaag ttaaacaatg gccattgaca gaagaaaaaa
+     2641 taaaagcatt agtagaaatt tgtacagaga tggaaaagga agggaaaatt tcaaaaattg
+     2701 ggcctgaaaa tccatacaat actccagtat ttgccataaa gaaaaaagac agtactaaat
+     2761 ggagaaaatt agtagatttc agagaactta ataagagaac tcaagacttc tgggaagttc
+     2821 aattaggaat accacatccc gcagggttaa aaaagaaaaa atcagtaaca gtactggatg
+     2881 tgggtgatgc atatttttca gttcccttag atgaagactt caggaagtat actgcattta
+     2941 ccatacctag tataaacaat gagacaccag ggattagata tcagtacaat gtgcttccac
+     3001 agggatggaa aggatcacca gcaatattcc aaagtagcat gacaaaaatc ttagagcctt
+     3061 ttagaaaaca aaatccagac atagttatct atcaatacat ggatgatttg tatgtaggat
+     3121 ctgacttaga aatagggcag catagaacaa aaatagagga gctgagacaa catctgttga
+     3181 ggtggggact taccacacca gacaaaaaac atcagaaaga acctccattc ctttggatgg
+     3241 gttatgaact ccatcctgat aaatggacag tacagcctat agtgctgcca gaaaaagaca
+     3301 gctggactgt caatgacata cagaagttag tggggaaatt gaattgggca agtcagattt
+     3361 acccagggat taaagtaagg caattatgta aactccttag aggaaccaaa gcactaacag
+     3421 aagtaatacc actaacagaa gaagcagagc tagaactggc agaaaacaga gagattctaa
+     3481 aagaaccagt acatggagtg tattatgacc catcaaaaga cttaatagca gaaatacaga
+     3541 agcaggggca aggccaatgg acatatcaaa tttatcaaga gccatttaaa aatctgaaaa
+     3601 caggaaaata tgcaagaatg aggggtgccc acactaatga tgtaaaacaa ttaacagagg
+     3661 cagtgcaaaa aataaccaca gaaagcatag taatatgggg aaagactcct aaatttaaac
+     3721 tgcccataca aaaggaaaca tgggaaacat ggtggacaga gtattggcaa gccacctgga
+     3781 ttcctgagtg ggagtttgtt aatacccctc ccttagtgaa attatggtac cagttagaga
+     3841 aagaacccat agtaggagca gaaaccttct atgtagatgg ggcagctaac agggagacta
+     3901 aattaggaaa agcaggatat gttactaata gaggaagaca aaaagttgtc accctaactg
+     3961 acacaacaaa tcagaagact gagttacaag caatttatct agctttgcag gattcgggat
+     4021 tagaagtaaa catagtaaca gactcacaat atgcattagg aatcattcaa gcacaaccag
+     4081 atcaaagtga atcagagtta gtcaatcaaa taatagagca gttaataaaa aaggaaaagg
+     4141 tctatctggc atgggtacca gcacacaaag gaattggagg aaatgaacaa gtagataaat
+     4201 tagtcagtgc tggaatcagg aaagtactat ttttagatgg aatagataag gcccaagatg
+     4261 aacatgagaa atatcacagt aattggagag caatggctag tgattttaac ctgccacctg
+     4321 tagtagcaaa agaaatagta gccagctgtg ataaatgtca gctaaaagga gaagccatgc
+     4381 atggacaagt agactgtagt ccaggaatat ggcaactaga ttgtacacat ttagaaggaa
+     4441 aagttatcct ggtagcagtt catgtagcca gtggatatat agaagcagaa gttattccag
+     4501 cagaaacagg gcaggaaaca gcatattttc ttttaaaatt agcaggaaga tggccagtaa
+     4561 aaacaataca tactgacaat ggcagcaatt tcaccggtgc tacggttagg gccgcctgtt
+     4621 ggtgggcggg aatcaagcag gaatttggaa ttccctacaa tccccaaagt caaggagtag
+     4681 tagaatctat gaataaagaa ttaaagaaaa ttataggaca ggtaagagat caggctgaac
+     4741 atcttaagac agcagtacaa atggcagtat tcatccacaa ttttaaaaga aaagggggga
+     4801 ttggggggta cagtgcaggg gaaagaatag tagacataat agcaacagac atacaaacta
+     4861 aagaattaca aaaacaaatt acaaaaattc aaaattttcg ggtttattac agggacagca
+     4921 gaaatccact ttggaaagga ccagcaaagc tcctctggaa aggtgaaggg gcagtagtaa
+     4981 tacaagataa tagtgacata aaagtagtgc caagaagaaa agcaaagatc attagggatt
+     5041 atggaaaaca gatggcaggt gatgattgtg tggcaagtag acaggatgag gattagaaca
+     5101 tggaaaagtt tagtaaaaca ccatatgtat gtttcaggga aagctagggg atggttttat
+     5161 agacatcact atgaaagccc tcatccaaga ataagttcag aagtacacat cccactaggg
+     5221 gatgctagat tggtaataac aacatattgg ggtctgcata caggagaaag agactggcat
+     5281 ttgggtcagg gagtctccat agaatggagg aaaaagagat atagcacaca agtagaccct
+     5341 gaactagcag accaactaat tcatctgtat tactttgact gtttttcaga ctctgctata
+     5401 agaaaggcct tattaggaca catagttagc cctaggtgtg aatatcaagc aggacataac
+     5461 aaggtaggat ctctacaata cttggcacta gcagcattaa taacaccaaa aaagataaag
+     5521 ccacctttgc ctagtgttac gaaactgaca gaggatagat ggaacaagcc ccagaagacc
+     5581 aagggccaca gagggagcca cacaatgaat ggacactaga gcttttagag gagcttaaga
+     5641 atgaagctgt tagacatttt cctaggattt ggctccatgg cttagggcaa catatctatg
+     5701 aaacttatgg ggatacttgg gcaggagtgg aagccataat aagaattctg caacaactgc
+     5761 tgtttatcca tttcagaatt gggtgtcgac atagcagaat aggcgttact cgacagagga
+     5821 gagcaagaaa tggagccagt agatcctaga ctagagccct ggaagcatcc aggaagtcag
+     5881 cctaaaactg cttgtaccaa ttgctattgt aaaaagtgtt gctttcattg ccaagtttgt
+     5941 ttcataacaa aagccttagg catctcctat ggcaggaaga agcggagaca gcgacgaaga
+     6001 gctcatcaga acagtcagac tcatcaagct tctctatcaa agcagtaagt agtacatgta
+     6061 acgcaaccta taccaatagt agcaatagta gcattagtag tagcaataat aatagcaata
+     6121 gttgtgtggt ccatagtaat catagaatat aggaaaatat taagacaaag aaaaatagac
+     6181 aggttaattg atagactaat agaaagagca gaagacagtg gcaatgagag tgaaggagaa
+     6241 atatcagcac ttgtggagat gggggtggag atggggcacc atgctccttg ggatgttgat
+     6301 gatctgtagt gctacagaaa aattgtgggt cacagtctat tatggggtac ctgtgtggaa
+     6361 ggaagcaacc accactctat tttgtgcatc agatgctaaa gcatatgata cagaggtaca
+     6421 taatgtttgg gccacacatg cctgtgtacc cacagacccc aacccacaag aagtagtatt
+     6481 ggtaaatgtg acagaaaatt ttaacatgtg gaaaaatgac atggtagaac agatgcatga
+     6541 ggatataatc agtttatggg atcaaagcct aaagccatgt gtaaaattaa ccccactctg
+     6601 tgttagttta aagtgcactg atttgaagaa tgatactaat accaatagta gtagcgggag
+     6661 aatgataatg gagaaaggag agataaaaaa ctgctctttc aatatcagca caagcataag
+     6721 aggtaaggtg cagaaagaat atgcattttt ttataaactt gatataatac caatagataa
+     6781 tgatactacc agctataagt tgacaagttg taacacctca gtcattacac aggcctgtcc
+     6841 aaaggtatcc tttgagccaa ttcccataca ttattgtgcc ccggctggtt ttgcgattct
+     6901 aaaatgtaat aataagacgt tcaatggaac aggaccatgt acaaatgtca gcacagtaca
+     6961 atgtacacat ggaattaggc cagtagtatc aactcaactg ctgttaaatg gcagtctagc
+     7021 agaagaagag gtagtaatta gatctgtcaa tttcacggac aatgctaaaa ccataatagt
+     7081 acagctgaac acatctgtag aaattaattg tacaagaccc aacaacaata caagaaaaag
+     7141 aatccgtatc cagagaggac cagggagagc atttgttaca ataggaaaaa taggaaatat
+     7201 gagacaagca cattgtaaca ttagtagagc aaaatggaat aacactttaa aacagatagc
+     7261 tagcaaatta agagaacaat ttggaaataa taaaacaata atctttaagc aatcctcagg
+     7321 aggggaccca gaaattgtaa cgcacagttt taattgtgga ggggaatttt tctactgtaa
+     7381 ttcaacacaa ctgtttaata gtacttggtt taatagtact tggagtactg aagggtcaaa
+     7441 taacactgaa ggaagtgaca caatcaccct cccatgcaga ataaaacaaa ttataaacat
+     7501 gtggcagaaa gtaggaaaag caatgtatgc ccctcccatc agtggacaaa ttagatgttc
+     7561 atcaaatatt acagggctgc tattaacaag agatggtggt aatagcaaca atgagtccga
+     7621 gatcttcaga cctggaggag gagatatgag ggacaattgg agaagtgaat tatataaata
+     7681 taaagtagta aaaattgaac cattaggagt agcacccacc aaggcaaaga gaagagtggt
+     7741 gcagagagaa aaaagagcag tgggaatagg agctttgttc cttgggttct tgggagcagc
+     7801 aggaagcact atgggcgcag cctcaatgac gctgacggta caggccagac aattattgtc
+     7861 tggtatagtg cagcagcaga acaatttgct gagggctatt gaggcgcaac agcatctgtt
+     7921 gcaactcaca gtctggggca tcaagcagct ccaggcaaga atcctggctg tggaaagata
+     7981 cctaaaggat caacagctcc tggggatttg gggttgctct ggaaaactca tttgcaccac
+     8041 tgctgtgcct tggaatgcta gttggagtaa taaatctctg gaacagattt ggaatcacac
+     8101 gacctggatg gagtgggaca gagaaattaa caattacaca agcttaatac actccttaat
+     8161 tgaagaatcg caaaaccagc aagaaaagaa tgaacaagaa ttattggaat tagataaatg
+     8221 ggcaagtttg tggaattggt ttaacataac aaattggctg tggtatataa aattattcat
+     8281 aatgatagta ggaggcttgg taggtttaag aatagttttt gctgtacttt ctatagtgaa
+     8341 tagagttagg cagggatatt caccattatc gtttcagacc cacctcccaa ccccgagggg
+     8401 acccgacagg cccgaaggaa tcgaagaaga aggtggagag agagacagag acagatccat
+     8461 tcgattagtg aacggatcct tggcacttat ctgggacgat ctgcggagcc tgtgcctctt
+     8521 cagctaccac cgcttgagag acttactctt gattgtaacg aggattgtgg aacttctggg
+     8581 acgcaggggg tgggaagccc tcaaatattg gtggaatctc ctacagtatt ggagtcagga
+     8641 actaaagaat agtgctgtta gcttgctcaa tgccacagcc atagcagtag ctgaggggac
+     8701 agatagggtt atagaagtag tacaaggagc ttgtagagct attcgccaca tacctagaag
+     8761 aataagacag ggcttggaaa ggattttgct ataagatggg tggcaagtgg tcaaaaagta
+     8821 gtgtgattgg atggcctact gtaagggaaa gaatgagacg agctgagcca gcagcagata
+     8881 gggtgggagc agcatctcga gacctggaaa aacatggagc aatcacaagt agcaatacag
+     8941 cagctaccaa tgctgcttgt gcctggctag aagcacaaga ggaggaggag gtgggttttc
+     9001 cagtcacacc tcaggtacct ttaagaccaa tgacttacaa ggcagctgta gatcttagcc
+     9061 actttttaaa agaaaagggg ggactggaag ggctaattca ctcccaaaga agacaagata
+     9121 tccttgatct gtggatctac cacacacaag gctacttccc tgattggcag aactacacac
+     9181 cagggccagg ggtcagatat ccactgacct ttggatggtg ctacaagcta gtaccagttg
+     9241 agccagataa gatagaagag gccaataaag gagagaacac cagcttgtta caccctgtga
+     9301 gcctgcatgg gatggatgac ccggagagag aagtgttaga gtggaggttt gacagccgcc
+     9361 tagcatttca tcacgtggcc cgagagctgc atccggagta cttcaagaac tgctgacatc
+     9421 gagcttgcta caagggactt tccgctgggg actttccagg gaggcgtggc ctgggcggga
+     9481 ctggggagtg gcgagccctc agatcctgca tataagcagc tgctttttgc ctgtactggg
+     9541 tctctctggt tagaccagat ctgagcctgg gagctctctg gctaactagg gaacccactg
+     9601 cttaagcctc aataaagctt gccttgagtg cttcaagtag tgtgtgcccg tctgttgtgt
+     9661 gactctggta actagagatc cctcagaccc ttttagtcag tgtggaaaat ctctagca
+//
