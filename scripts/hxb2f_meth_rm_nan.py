@@ -25,7 +25,7 @@ def main():
 
     # Remove rows with Nans (Not-a-Number) in column K or 11 (Percentage of modified bases)
     # https://www.datasciencelearner.com/pandas-dropna-remove-nan-rows-python/
-    dataframe.dropna(subset=['PERC'], inplace=True)
+    dataframe.dropna(subset=['Percentage_of_mod_bases'], inplace=True)
     #_chk_numrows_cleaner(dataframe, num_rows_orig)
     _prt_colhdrs(dataframe)
 
