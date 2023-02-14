@@ -44,17 +44,17 @@ def _wr_tsv(fout, dataframe):
 def _get_colhdrs():
     """Get column headers using information from data/hxb2f.meth.png"""
     return [
-        'RNAME',    #  1 A reference sequence name
-        'POS',      #  2 B 0-based start position
-        'END',      #  3 C 0-based exclusive end position
-        'METH',     #  4 D Abbreviated name of modified-base examined
-        'SCORE',    #  5 E "Score" 1000*(...)
-        'STRAND',   #  6 F Strand(of reference sequence). Forward "+", or reverse "-"
-        'IGNORE0',  #  7 G Ignore, included simply for compatibility
-        'IGNORE1',  #  8 H Ignore, included simply for compatibility
-        'IGNORE2',  #  9 I Ignore, included simply for compatibility
-        'COVERAGE', # 10 J Read coverage at reference position
-        'PERC',     # 11 K Percentage of modified bases, as a proportion of canonical & modified
+        'Reference_sequence_name',    #  1 A reference sequence name
+        'Start_position',      #  2 B 0-based start position
+        'End_postiion_excl',      #  3 C 0-based exclusive end position
+        'Modification_type',     #  4 D Abbreviated name of modified-base examined
+        'Score',    #  5 E "Score" 1000*(...)
+        'Strand',   #  6 F Strand(of reference sequence). Forward "+", or reverse "-"
+        'Ignore_7',  #  7 G Ignore, included simply for compatibility
+        'Ignore_8',  #  8 H Ignore, included simply for compatibility
+        'Ignore_9',  #  9 I Ignore, included simply for compatibility
+        'Read_coverage_at_reference', # 10 J Read coverage at reference position
+        'Percentage_of_mod_bases',     # 11 K Percentage of modified bases, as a proportion of canonical & modified
                     #      (no calls and filtered), substitutions, and deletions).
                     #      100 * Nmod/(Nmod + Ncanon)
     ]
